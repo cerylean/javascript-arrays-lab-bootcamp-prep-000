@@ -8,4 +8,4 @@ function destructivelyRemoveFirstKitten() {return kittens.shift()}
 
 function destructivelyRemoveLastKitten() {return kittens.pop()}
 
-function addElementToBeginningOfArray(array, element) {array=[element,...array]; return array}
+function appendKitten(name) {array=[element,...array]; return array}
